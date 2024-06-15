@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/public/1678645062916.jpg"
+              src="./public/1678645062916.jpg"
               alt="Yasir ali portrait"
               width="192"
               height="192"
