@@ -31,12 +31,11 @@ export default function Intro() {
             }}
           >
             <Image
-              src="./public/1678645062916.jpg"
+              src="/public/1678645062916.jpg"
               alt="Yasir ali portrait"
               width="192"
               height="192"
               quality="95"
-              priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
